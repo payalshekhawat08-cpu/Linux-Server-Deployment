@@ -1,0 +1,13 @@
+# Private keys and secrets - never commit these
+*.pem
+*.key
+id_rsa
+id_ed25519
+.env
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
